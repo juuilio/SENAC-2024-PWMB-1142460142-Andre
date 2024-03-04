@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    flex-direction: row;
+    background: gray;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+main{
+    height: 20vh;
+}
+
+img{
+    height: 500px;
+}
+
+footer{
+    background-color: white;
+}
